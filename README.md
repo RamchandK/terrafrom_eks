@@ -43,9 +43,9 @@ terraform_scripts/aws/eks/
 Usage
 Clone the repo:
 ```
-git clone https://github.com/your-username/your-repo-name.git
+git clone [https://github.com/your-username/your-repo-name.git](https://github.com/RamchandK/terrafrom_eks.git)
 
-cd your-repo-name/terraform_scripts/aws/eks
+cd [your-repo-name/terraform_scripts/aws/eks](https://github.com/RamchandK/terrafrom_eks.git)
 ```
 
 Initialize Terraform:
